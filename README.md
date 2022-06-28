@@ -1,4 +1,4 @@
-### Oiii! Bem-vindo(a) ao meu Git! 
+### Oiie! Bem-vindo(a) ao meu Git! 
  Prazer, Algusto Caldas
 ##
 
