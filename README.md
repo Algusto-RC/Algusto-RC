@@ -1,5 +1,5 @@
-### Oiie, bem-vindo(a) ao meu Git! 
- Prazer, Algusto Caldas
+### Hi, welcome to my Git!
+ Pleasure, Algusto Caldas
 ##
 
 <div align="center">
