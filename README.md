@@ -38,5 +38,5 @@ I'm Algusto Rodrigues Caldas, and I'm glad to have you here!
 
 ##
 
-![Snake animation](https://github.com/Algusto-RC/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Algusto-RC/Algusto-RC/blob/output/github-contribution-grid-snake.svg)
 
