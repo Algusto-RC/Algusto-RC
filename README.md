@@ -37,4 +37,5 @@ I'm always open to discussing new opportunities and collaborations. Feel free to
 
 ---
 
-![Snake animation](https://github.com/Algusto-RC/Algusto-RC/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Algusto-RC/Algusto-RC/blob/output/github-contribution-grid-snake.svg)
+
