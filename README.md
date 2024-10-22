@@ -37,7 +37,4 @@ I'm always open to discussing new opportunities and collaborations. Feel free to
 
 ---
 
-![Algusto-RC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Algusto-RC&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Algusto-RC&layout=compact&theme=radical)
-
 
