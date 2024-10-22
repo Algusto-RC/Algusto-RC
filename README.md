@@ -3,9 +3,9 @@ Pleasure, Algusto Caldas
 ##
 
 <div align="center">
-  <a href="https://github.com/algusto-rc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=algusto-rc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algusto-rc&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Algusto-RC">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Algusto-RC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algusto-RC&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
