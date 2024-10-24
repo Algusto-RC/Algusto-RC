@@ -5,6 +5,15 @@ I’m excited to share my projects and contributions with you.
 ---
 
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Algusto-RC&theme=transparent&locale=en&card_width=500" alt="GitHub Streak Stats"/>
+  </a>
+</div>
+
+---
+---
+
+<div align="center">
   <a href="https://github.com/Algusto-RC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Algusto-RC&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algusto-RC&layout=compact&langs_count=7&theme=transparent" />
@@ -13,7 +22,8 @@ I’m excited to share my projects and contributions with you.
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Tech Stack
+
 <div style="display: inline_block; text-align: center; margin: 20px 0;">
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -25,10 +35,11 @@ I’m excited to share my projects and contributions with you.
 
 ---
 
-### 📫 Get in Touch
+## 📫 Get in Touch
+
 I'm always open to discussing new opportunities and collaborations. Feel free to connect with me:
 
-<div>
+<div align="center">
   <a href="https://instagram.com/algusto_r.c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/hYHF5AvKUU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:algustorc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,5 +47,3 @@ I'm always open to discussing new opportunities and collaborations. Feel free to
 </div>
 
 ---
-
-
