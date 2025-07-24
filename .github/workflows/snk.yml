@@ -1,0 +1,25 @@
+name: Generate Pac-Man Contributions Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda diariamente à meia-noite UTC
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: generate animation
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Algusto-RC
+          outputs: |
+            ./dist/pacman.svg
+            ./dist/pacman-dark.svg
+
+      - name: push contribution graph
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
