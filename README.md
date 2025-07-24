@@ -35,10 +35,11 @@ Tenho interesse em engenharia de dados, RPA, ciência de dados e arquitetura de 
 ## Contribuições em destaque
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Algusto-RC/Algusto-RC/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Algusto-RC/Algusto-RC/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/Algusto-RC/Algusto-RC/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Algusto-RC/Algusto-RC/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Algusto-RC/Algusto-RC/output/pacman.svg">
+  <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/Algusto-RC/Algusto-RC/output/pacman.svg">
 </picture>
+
 
 ---
 
